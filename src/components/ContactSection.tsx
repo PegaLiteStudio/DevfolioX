@@ -41,7 +41,7 @@ export default function ContactSection() {
             if (!portfolioData.contactFormUrl || !portfolioData.contactFormUrl.includes("://")) {
                 toast({
                     title: "Please Setup Contact Form",
-                    description: "Add Form Api in client/src/lib/portfolio-data.ts",
+                    description: "Add Form Api in src/lib/portfolio-data.ts",
                     variant: "destructive",
                 });
                 return;
