@@ -1,6 +1,6 @@
 # 🚀 DevfolioX
 
-**A modern, responsive portfolio website built with React and Vite — handcrafted with ❤️ by [Sahil Hossain](https://sahil.pegalitestudio.xyz/)**
+**A modern, responsive portfolio website built with React and Vite — handcrafted with ❤️ by [Sahil Hossain](https://sahil.pegalite.com/)**
 
 ## 🖼️ Preview
 ![DevfolioX Banner](/images/img.png) <!-- Replace with actual banner image -->
